@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Web Notes",
+  "description": "clip, highlight & Manage notes of the web pages you visit.",
+  "version": "0.0.1"
+}
